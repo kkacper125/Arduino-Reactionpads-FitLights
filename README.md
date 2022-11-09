@@ -1,7 +1,6 @@
 # Arduino-Reactionpads-FitLights
 Reactionpads made by a 17 year old student using arduino. Pleas remember that this code is not perfect and has a lot that can be inproved.
 
-This game worked in Proteus simulator but ended up never working in reality using physical components.
 The point of the game is that some leds light up and you need to press the button that belongs to the led.
 A game with 3 program buttons and 3 playbuttons. Adding more playbuttons wont be very hard.
 Two gamemodes and one reset button.
